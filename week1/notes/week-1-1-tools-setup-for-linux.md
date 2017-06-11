@@ -2,8 +2,6 @@
 
 > The instructions are specific to Ubuntu operating 
 
-[TOC]
-
 ## Java Installation
 
 Check for the java installation using:
